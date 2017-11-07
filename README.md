@@ -8,9 +8,9 @@
 * [The Gimp](https://www.gimp.org) - Image edition 
 * [Krita](https://krita.org) - Image edition 
  
-## 事件
-* [st2](https://github.com/StackStorm/st2) - 事件驱动  
-* [st2contrib](https://github.com/StackStorm/st2contrib) - 相关的依赖   
+## 事件   
+* [st2](https://github.com/StackStorm/st2) - 事件驱动    
+* [st2contrib](https://github.com/StackStorm/st2contrib) - 相关的依赖     
  
 ## 库
  
