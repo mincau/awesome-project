@@ -34,6 +34,7 @@ A simple C++ library for packing and unpacking OSC packets.
 * [alloy](https://github.com/sgorsten/alloy) - UI library written with NanoVG, GLFW, and modern OpenGL in C++11
 * [kiui](https://github.com/hugoam/kiui) - Auto-layout Ui library, lightweight, skinnable and system agnostic, with an OpenGL backend
 * [QFramer](https://github.com/dragondjf/QFramer) - It's a solid frame based on Qt. 
+* [QtAdvanced](https://github.com/DeepinQter/QtAdvanced) - 如果你想使用Qt如鱼得水, 这里的东西值得你学习。
 
 ## CG
 * [cortex](https://github.com/ImageEngine/cortex) - Libraries for visual effects software development
@@ -93,7 +94,6 @@ A simple C++ library for packing and unpacking OSC packets.
 * [pyblish-lite](https://github.com/mottosso/pyblish-lite) - A lightweight alternative to Pyblish QML
 * [BtoA](https://github.com/fxjeane/BtoA) - Blender to Arnold
 * [pyblish](https://github.com/pyblish/pyblish) - Test-driven content creation, visit http://pyblish.com for the full scoop.
-* [light_sequence_parser](https://github.com/gchatelet/light_sequence_parser) 文件序列处理
 
 ### shotgun
 * [tk-katana](https://github.com/robblau/tk-katana) - Shotgun Engine for Katana
@@ -106,6 +106,9 @@ A simple C++ library for packing and unpacking OSC packets.
 
 ### tactic
 * [TACTIC](https://github.com/Southpaw-TACTIC/TACTIC)
+
+### rv
+* [arnold-rv](https://github.com/LumaPictures/arnold-rv) - Driver for sending arnold frame buffers to Tweak's RV (Righteous Viewer).
 
 ### other 
 * [Ecosystem](https://github.com/PeregrineLabs/Ecosystem) - A cross-platform environment management system for VFX/animation production plus R&D http://peregrinelabs.com/
@@ -126,27 +129,25 @@ A simple C++ library for packing and unpacking OSC packets.
 * [threefab](https://github.com/blackjk3/threefab) - Fabrication tool for three.js http://blackjk3.github.com/threefab/
 * [webglstudio](https://github.com/jagenjo/webglstudio.js) - A full 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.
 
-## Node 编辑
-* []() 
-* []() 
-* []() 
-* []() 
 
 ## Timeline
 * [bugel](https://github.com/Aloshi/bugel)
 
-## 库
- 
+## 库 
 ### 文件路径
 * [Lucidity](http://lucidity.readthedocs.io/en/latest/) - 文件路径模板
  
 ### 序列     
 * [clique](https://github.com/4degrees/lucidity) - 处理序列   
 * [python-edl](https://github.com/simonh10/python-edl) - A python EDL parsing library
+* [light_sequence_parser](https://github.com/gchatelet/light_sequence_parser) 文件序列处理
 
-### js
-* [extjs](https://github.com/mincau/extjs)   
+### js库
+* [extjs](https://github.com/bjornharrtell/extjs)   
 * [cga.js](https://github.com/YCAMInterlab/cga.js) - Computational Geometry Algorithms in Javascript
+
+## im
+* [Telegram-Server](https://github.com/aykutalparslan/Telegram-Server)
 
 ## 杂
 * [SeExpr](https://github.com/wdas/SeExpr) - SeExpr is a simple expression language that we use to provide artistic control and customization to our core software. We use it for procedural geometry synthesis, image synthesis, simulation control, and much more
@@ -154,8 +155,8 @@ A simple C++ library for packing and unpacking OSC packets.
 * [CasparCG/Server](https://github.com/CasparCG/Server) - CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs. It has been in 24/7 broadcast production since 2006. Ready-to-use downloads are available at the official site
 * [elephant](https://github.com/kennethreitz/elephant) - A persistent, full-text searchable key-value store. Powered by Flask, ElasticSearch, S3, and good intentions.
 * [TwinklebearDev-Lessons](https://github.com/Twinklebear/TwinklebearDev-Lessons) - Source code and assets for the TwinklebearDev Tutorials http://www.willusher.io/pages/sdl2/
-
 * [screen_grab](https://github.com/lucasw/screen_grab) - Capture the screen and publish it on a ROS sensor_msgs/Image topic Edit
 Add topics
 * [concurrent_utils](https://github.com/mikrosimage/concurrent_utils) - A set of reusable C++ classes for concurrent tasks
 * [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd)
+
