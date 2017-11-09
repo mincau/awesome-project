@@ -21,6 +21,7 @@ It based on libraryless extractor, only a human readable specification describe 
 * [SeExprArnold](https://github.com/gatgui/SeExprArnold) - SeExpr shader for Arnold renderer
 * [Obq_Shaders](https://github.com/madesjardins/Obq_Shaders) - Obq_Shaders for Arnold
 * [libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library. http://libigl.github.io/libigl/
+* [cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below https://github.com/CGAL/cgal#readme
 
 ## 声音
 * [oscpack](https://github.com/arturoc/oscpack) - oscpack -- Open Sound Control packet manipulation library
