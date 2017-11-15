@@ -2,8 +2,9 @@
 
 ## Awesome系列
 * [CG Pipeline](https://github.com/mincau/awesome-cg-pipeline) - CG方面的     
-* [全集](https://github.com/sindresorhus/awesome) awesome 全集
- 
+* [全集](https://github.com/sindresorhus/awesome) awesome 全集    
+* [awesome django](https://github.com/rosarior/awesome-django) awesome django
+ 
 ## Image处理
 * [Natron](https://natron.fr) - Compositing 
 * [The Gimp](https://www.gimp.org) - Image edition 
