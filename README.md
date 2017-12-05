@@ -53,8 +53,9 @@ A simple C++ library for packing and unpacking OSC packets.
 ## web download and upload  
 * [CuteTorrent](https://github.com/sunpeng196/CuteTorrent) - BitTorrent client based on libtorrent-rasterbar with user friendly interface 
 * [centrifugo](https://github.com/centrifugal/centrifugo) Language-agnostic real-time messaging (Websocket or SockJS) server in Go    
-* [websocketd](https://github.com/joewalnes/websocketd) Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.    
-
+* [websocketd](https://github.com/joewalnes/websocketd) Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.       
+* [uWebSockets](https://github.com/uNetworking/uWebSockets)  Tiny WebSockets https://gitter.im/uWebSockets-chat/     
+ 
 ## go 的web库
 * [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language. 
 
