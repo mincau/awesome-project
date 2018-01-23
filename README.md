@@ -155,8 +155,19 @@ A simple C++ library for packing and unpacking OSC packets.
 * [extjs](https://github.com/bjornharrtell/extjs)   
 * [cga.js](https://github.com/YCAMInterlab/cga.js) - Computational Geometry Algorithms in Javascript
 
-## im
+### im
 * [Telegram-Server](https://github.com/aykutalparslan/Telegram-Server)
+
+### update
+* [omaha](https://github.com/Crystalnix/omaha-server) - 谷歌的win自动更新框架
+* [Update](https://github.com/Jackarain/Update) - 一个用于更新的解决方案(暂时only windows)
+* [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
+* [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows)  - An installation and update framework for Windows desktop apps
+* []()
+* []()
+* []()
+* []()
+
 
 ## 杂
 * [SeExpr](https://github.com/wdas/SeExpr) - SeExpr is a simple expression language that we use to provide artistic control and customization to our core software. We use it for procedural geometry synthesis, image synthesis, simulation control, and much more
